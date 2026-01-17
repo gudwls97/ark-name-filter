@@ -1,4 +1,5 @@
 인간
+닝겐
 사람
 human
 player
